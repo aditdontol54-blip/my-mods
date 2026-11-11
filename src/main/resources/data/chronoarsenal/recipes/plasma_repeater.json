@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "QII",
+    "BM ",
+    "I  "
+  ],
+  "key": {
+    "Q": {
+      "item": "chronoarsenal:quantum_core"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "M": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "chronoarsenal:plasma_repeater",
+    "count": 1
+  }
+}

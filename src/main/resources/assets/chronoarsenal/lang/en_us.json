@@ -1,0 +1,54 @@
+{
+  "itemGroup.chronoarsenal": "Chrono Arsenal",
+
+  "item.chronoarsenal.quantum_core": "Quantum Core",
+  "item.chronoarsenal.chrono_blade": "Chrono Blade",
+  "item.chronoarsenal.plasma_repeater": "Plasma Repeater",
+  "item.chronoarsenal.graviton_maul": "Graviton Maul",
+  "item.chronoarsenal.rift_edge": "Rift Edge",
+  "item.chronoarsenal.arc_caster": "Arc Caster",
+
+  "effect.chronoarsenal.temporal_stasis": "Temporal Stasis",
+
+  "tooltip.chronoarsenal.chrono_blade.lore": "\"A second is just a suggestion.\"",
+  "tooltip.chronoarsenal.chrono_blade.passive": "Hits slow time for the target and leave a Temporal Echo that strikes again 1s later",
+  "tooltip.chronoarsenal.chrono_blade.use": "Right-click: TIME STOP - freeze everything within 12 blocks for 5s (30s cooldown)",
+  "tooltip.chronoarsenal.chrono_blade.sneak": "Sneak + Right-click: REWIND - return to where you were 5s ago and undo lost health (45s cooldown)",
+
+  "tooltip.chronoarsenal.plasma_repeater.lore": "\"Warning: barrel reaches the temperature of a star.\"",
+  "tooltip.chronoarsenal.plasma_repeater.passive": "Bolts ignite targets. The bar under the icon is HEAT - hit 100% and it overheats",
+  "tooltip.chronoarsenal.plasma_repeater.use": "Hold Right-click: full-auto plasma fire",
+  "tooltip.chronoarsenal.plasma_repeater.sneak": "Sneak while firing: OVERCHARGE - stronger bolts, double heat",
+
+  "tooltip.chronoarsenal.graviton_maul.lore": "\"Newton would like a word.\"",
+  "tooltip.chronoarsenal.graviton_maul.passive": "Hits launch enemies upward. Hitting an airborne enemy deals bonus damage",
+  "tooltip.chronoarsenal.graviton_maul.use": "Right-click: SINGULARITY - a 3s black hole that pulls everything in, then implodes (20s cooldown)",
+  "tooltip.chronoarsenal.graviton_maul.sneak": "Sneak + Right-click: REPULSOR - blast enemies away and reflect projectiles (8s cooldown)",
+
+  "tooltip.chronoarsenal.rift_edge.lore": "\"The shortest path between two points is a tear.\"",
+  "tooltip.chronoarsenal.rift_edge.passive": "Hits have a 20% chance to rip the target through space",
+  "tooltip.chronoarsenal.rift_edge.use": "Right-click: PHASE BLINK - dash 14 blocks, slashing everything in the way (2.5s cooldown)",
+  "tooltip.chronoarsenal.rift_edge.sneak": "Sneak + Right-click: VOID SWAP - trade places with the creature you look at (5s cooldown)",
+
+  "tooltip.chronoarsenal.arc_caster.lore": "\"Tesla called. He wants it back.\"",
+  "tooltip.chronoarsenal.arc_caster.passive": "Wet targets (rain or water) take 50% more damage",
+  "tooltip.chronoarsenal.arc_caster.use": "Right-click: CHAIN LIGHTNING - an arc that jumps between up to 6 enemies",
+  "tooltip.chronoarsenal.arc_caster.sneak": "Sneak + Right-click: STORM CALL - real lightning where you look, with arcs to everything nearby (10s cooldown)",
+
+  "ability.chronoarsenal.time_stop": "Time Stop",
+  "ability.chronoarsenal.rewind": "Rewind",
+  "ability.chronoarsenal.singularity": "Singularity",
+  "ability.chronoarsenal.repulse": "Repulsor",
+  "ability.chronoarsenal.blink": "Phase Blink",
+  "ability.chronoarsenal.void_swap": "Void Swap",
+  "ability.chronoarsenal.storm_call": "Storm Call",
+
+  "message.chronoarsenal.recharging": "%s recharging: %ss",
+  "message.chronoarsenal.time_stop": "Time has stopped.",
+  "message.chronoarsenal.rewind": "Timeline restored.",
+  "message.chronoarsenal.singularity": "Singularity deployed.",
+  "message.chronoarsenal.overheated": "OVERHEATED! Venting plasma...",
+  "message.chronoarsenal.no_space": "No room to blink there.",
+  "message.chronoarsenal.no_target": "No target in sight.",
+  "message.chronoarsenal.storm_call": "The sky answers."
+}

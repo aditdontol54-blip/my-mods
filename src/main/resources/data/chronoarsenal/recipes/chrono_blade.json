@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " Q ",
+    " C ",
+    " B "
+  ],
+  "key": {
+    "Q": {
+      "item": "chronoarsenal:quantum_core"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "chronoarsenal:chrono_blade",
+    "count": 1
+  }
+}

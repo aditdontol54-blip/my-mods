@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="chronoarsenal"
+version="1.0.0"
+displayName="Chrono Arsenal"
+authors="Danish"
+description='''
+Five futuristic weapons: the Chrono Blade (time), Plasma Repeater (plasma),
+Graviton Maul (gravity), Rift Edge (space) and Arc Caster (lightning).
+'''
+
+# NeoForge 1.20.1 still identifies itself as "forge" (it is a fork of Forge 47.1)
+[[dependencies.chronoarsenal]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.chronoarsenal]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
